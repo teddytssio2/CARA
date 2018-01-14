@@ -1,0 +1,244 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+11 items
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\AkkaQuickstart$.class
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\AkkaQuickstart$delayedInit$body.class
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\AkkaQuickstart.class
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\Compteur$$anonfun$receive$1.class
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\Compteur$.class
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\Compteur.class
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\Master$$anonfun$receive$2.class
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\Master$.class
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\Master.class
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\Start$.class
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\Start.class
+binary dependencies:
+3 items
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> C:\Program Files (x86)\Java\jre1.8.0_151\lib\rt.jar
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> D:\Users\kdelporte\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.3.jar
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> D:\Users\kdelporte\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+11 items
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> com.lightbend.akka.sample.AkkaQuickstart
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> com.lightbend.akka.sample.AkkaQuickstart$
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> com.lightbend.akka.sample.AkkaQuickstart$delayedInit$body
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> com.lightbend.akka.sample.Compteur
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> com.lightbend.akka.sample.Compteur$
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> com.lightbend.akka.sample.Compteur$$anonfun$receive$1
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> com.lightbend.akka.sample.Master
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> com.lightbend.akka.sample.Master$
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> com.lightbend.akka.sample.Master$$anonfun$receive$2
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> com.lightbend.akka.sample.Start
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> com.lightbend.akka.sample.Start$
+used names:
+131 items
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> !
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> &&
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> +
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> <byname>
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> <init>
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> <repeated>
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> ==
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> A
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> A1
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> AbstractFunction1
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> AbstractPartialFunction
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Actor
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> ActorContext
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> ActorLogging
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> ActorRef
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> ActorRefRoutee
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> ActorSystem
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> AkkaQuickstart
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Any
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> AnyRef
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> App
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Array
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> B1
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Boolean
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> BufferedSource
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Character
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Class
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> ClassTag
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Codec
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Compteur
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Function1
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Future
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> IndexOutOfBoundsException
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> IndexedSeq
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Int
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Iterator
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> LoggingAdapter
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Long
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Master
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> None
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Nothing
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Object
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Option
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Predef
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Product
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Props
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> RoundRobinRoutingLogic
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Routee
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Router
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> RoutingLogic
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> ScalaActorRef
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> ScalaRunTime
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Serializable
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Some
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Source
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Start
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> String
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> StringContext
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> T
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> T0
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Terminated
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Thread
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> U
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Unit
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> Vector
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> _$7
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> _hashCode
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> _root_
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> _toString
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> actor
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> actorOf
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> actorRef2Scala
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> akka
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> apply
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> asInstanceOf
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> com
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> context
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> eq
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> fallbackSystemCodec
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> filename
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> fill
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> foreach
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> fromFile
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> getLines
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> info
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> io
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> isEmpty
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> isInstanceOf
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> java
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> lang
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> length
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> lightbend
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> line
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> log
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> master
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> materializeClassTag
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> nbLignes
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> nbLignesLues
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> nbLignesLues_=
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> nbLignes_=
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> nbMots
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> nbMots_=
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> package
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> props
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> qual$1
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> r
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> reflect
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> route
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> routees
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> router
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> routing
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> runtime
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> s
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> sample
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> scala
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> self
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> sender
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> size
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> sleep
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> split
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> system
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> terminate
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> toString
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> total
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> total_=
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> typedProductIterator
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> unchecked
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> watch
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> x$1
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> x$2
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> ||
+product stamps:
+11 items
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\AkkaQuickstart$.class -> lastModified(1515941016986)
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\AkkaQuickstart$delayedInit$body.class -> lastModified(1515941016991)
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\AkkaQuickstart.class -> lastModified(1515941016985)
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\Compteur$$anonfun$receive$1.class -> lastModified(1515941016988)
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\Compteur$.class -> lastModified(1515941016978)
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\Compteur.class -> lastModified(1515941016979)
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\Master$$anonfun$receive$2.class -> lastModified(1515941016990)
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\Master$.class -> lastModified(1515941016980)
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\Master.class -> lastModified(1515941016981)
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\Start$.class -> lastModified(1515941016976)
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\target\scala-2.12\classes\com\lightbend\akka\sample\Start.class -> lastModified(1515941016975)
+source stamps:
+1 items
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> hash(c9e3ce49d2f5e8a08e26c8117e2345fb46d71fe6)
+binary stamps:
+3 items
+C:\Program Files (x86)\Java\jre1.8.0_151\lib\rt.jar -> lastModified(1511184964735)
+D:\Users\kdelporte\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.3.jar -> lastModified(1497881264000)
+D:\Users\kdelporte\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar -> lastModified(1492071552000)
+class names:
+3 items
+C:\Program Files (x86)\Java\jre1.8.0_151\lib\rt.jar -> java.lang.Object
+D:\Users\kdelporte\.ivy2\cache\com.typesafe.akka\akka-actor_2.12\jars\akka-actor_2.12-2.5.3.jar -> akka.actor.Actor
+D:\Users\kdelporte\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.12.2.jar -> scala.Product
+internal apis:
+1 items
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwolLKWgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAJzcgAgeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2hbDvUidjhXzwIAAkkABGhhc2hMAARuYW1ldAASTGphdmEvbGFuZy9TdHJpbmc7eHBmFUbudAAEc2VsZnNxAH4AC3sz2bZ0AAdjb250ZXh0dXEAfgAJAAAAPHNxAH4AC81i3/d0AAZub3RpZnlzcQB+AAt/aaB1dAAHUmVjZWl2ZXNxAH4ACxVoNu10AAR3YWl0c3EAfgAL00J1CnQABk1hc3RlcnNxAH4ACxvQ8mB0AAhuYkxpZ25lc3NxAH4AC6lHHZR0AA0kYXNJbnN0YW5jZU9mc3EAfgALMviQbHQABnN5c3RlbXNxAH4AC2K1MId0AAxwcm9kdWN0QXJpdHlzcQB+AAvD5Bo5dAAGbWFzdGVyc3EAfgAL3FDFKHQABmVxdWFsc3NxAH4ACwJ9stV0AAxhc0luc3RhbmNlT2ZzcQB+AAtfcvgddAAOZXhlY3V0aW9uU3RhcnRzcQB+AAtniw3rdAAMc3luY2hyb25pemVkc3EAfgALn1a6EHQADSRpc0luc3RhbmNlT2ZzcQB+AAtl+JSrdAAHcmVjZWl2ZXNxAH4AC7Eumh90AApwcmVSZXN0YXJ0c3EAfgAL7V3kK3QADWFyb3VuZFJlY2VpdmVzcQB+AAv1z7CmdAAIY2FuRXF1YWxzcQB+AAvcJUW5dAAIQ29tcHRldXJzcQB+AAsPNGZmdAALcG9zdFJlc3RhcnRzcQB+AAtU/KOndAAEbWFpbnNxAH4AC8AX29N0AAV0b3RhbHNxAH4AC7H/LqB0AAVTdGFydHNxAH4ACxJPcBR0AAhwb3N0U3RvcHNxAH4AC+2hAIJ0AA1wcm9kdWN0UHJlZml4c3EAfgALAPhE13QACW5vdGlmeUFsbHNxAH4AC04XY3x0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC9jGyOd0AAxpc0luc3RhbmNlT2ZzcQB+AAtvf36pdAAGbmJNb3Rzc3EAfgALhzQwEXQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAumF7egdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAvv8rbEdAAGPGluaXQ+c3EAfgALWiduKnQACHByZVN0YXJ0c3EAfgALys4oR3QACXVuaGFuZGxlZHNxAH4AC49FKW90AAI9PXNxAH4ACxblHvx0AAVjbG9uZXNxAH4AC+GLzjB0AAhmaWxlbmFtZXNxAH4AC9eRG0B0AAYkaW5pdCRzcQB+AAtxvefJdAAMbmJMaWduZXNMdWVzc3EAfgALF58W3HQABGNvcHlzcQB+AAsIi7QBdAAGc2VuZGVyc3EAfgALYWWC+3QACHRvU3RyaW5nc3EAfgALnfVX2XQABGFyZ3NzcQB+AAvKQPiXdAACIT1zcQB+AAvrT6ZndAAIZ2V0Q2xhc3NzcQB+AAshMTOjdAAOY29weSRkZWZhdWx0JDFzcQB+AAu2hIG8dAAFcHJvcHNzcQB+AAtzhKYUdAACbmVzcQB+AAtWsk0+dAAGcm91dGVyc3EAfgAL9d4iTnQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4ACz8CncV0AAJlcXNxAH4AC/Xp8zt0AA9wcm9kdWN0SXRlcmF0b3JzcQB+AAsDHcD8dAADbG9nc3EAfgAL6Rr2f3QAC2RlbGF5ZWRJbml0c3EAfgALyCAhDnQADkFra2FRdWlja3N0YXJ0c3EAfgALMGIDqnQAAiMjc3EAfgALVPw57XQACGZpbmFsaXplc3EAfgAL9Q0Xg3QADnByb2R1Y3RFbGVtZW50c3EAfgALApH+M3QACGhhc2hDb2Rlc3EAfgALHwR3GHQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4Ak3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAH2NvbS5saWdodGJlbmQuYWtrYS5zYW1wbGUuU3RhcnR1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4Aq3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgCTTAAJaW5oZXJpdGVkcQB+AJNMAAdwYXJlbnRzcQB+AJN4cQB+ALBzcQB+AKt1cQB+AI4AAAAAc3EAfgCrdXEAfgCOAAAAAHNxAH4Aq3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4Ar3QADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4Ar3NyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AyXNxAH4AvHEAfgC/c3EAfgDAc3EAfgDDdXEAfgDGAAAAA3NxAH4AyHQABGphdmFzcQB+AMh0AAJpb3EAfgDNc3EAfgC8dAAHUHJvZHVjdHEAfgD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A43EAfgGBdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADHhwdAAZY29tLmxpZ2h0YmVuZC5ha2thLnNhbXBsZXNxAH4BrXQAEmNvbS5saWdodGJlbmQuYWtrYXNxAH4BrXQAA2NvbXNxAH4BrXQADWNvbS5saWdodGJlbmRzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWD1ICL5dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAZEQ6XFVzZXJzXGtkZWxwb3J0ZVxEZXNrdG9wXGFra2EtcXVpY2tzdGFydC1zY2FsYSAoMSlcYWtrYS1xdWlja3N0YXJ0LXNjYWxhXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTJ485J0vXooI4myBF+I0X7Rtcf5g==
+external apis:
+0 items
+source infos:
+1 items
+D:\Users\kdelporte\Desktop\akka-quickstart-scala (1)\akka-quickstart-scala\src\main\scala\com\lightbend\akka\sample\AkkaQuickstart.scala -> 
+AAAAAAAAAAA=
+compilations:
+6 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYPTr9xF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZEQ6XFVzZXJzXGtkZWxwb3J0ZVxEZXNrdG9wXGFra2EtcXVpY2tzdGFydC1zY2FsYSAoMSlcYWtrYS1xdWlja3N0YXJ0LXNjYWxhXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYPUW9kt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZEQ6XFVzZXJzXGtkZWxwb3J0ZVxEZXNrdG9wXGFra2EtcXVpY2tzdGFydC1zY2FsYSAoMSlcYWtrYS1xdWlja3N0YXJ0LXNjYWxhXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYPUavgV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZEQ6XFVzZXJzXGtkZWxwb3J0ZVxEZXNrdG9wXGFra2EtcXVpY2tzdGFydC1zY2FsYSAoMSlcYWtrYS1xdWlja3N0YXJ0LXNjYWxhXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYPUdULx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZEQ6XFVzZXJzXGtkZWxwb3J0ZVxEZXNrdG9wXGFra2EtcXVpY2tzdGFydC1zY2FsYSAoMSlcYWtrYS1xdWlja3N0YXJ0LXNjYWxhXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYPUdosR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZEQ6XFVzZXJzXGtkZWxwb3J0ZVxEZXNrdG9wXGFra2EtcXVpY2tzdGFydC1zY2FsYSAoMSlcYWtrYS1xdWlja3N0YXJ0LXNjYWxhXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYPUgIvl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZEQ6XFVzZXJzXGtkZWxwb3J0ZVxEZXNrdG9wXGFra2EtcXVpY2tzdGFydC1zY2FsYSAoMSlcYWtrYS1xdWlja3N0YXJ0LXNjYWxhXHRhcmdldFxzY2FsYS0yLjEyXGNsYXNzZXN0AAEv

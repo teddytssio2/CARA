@@ -1,14 +1,19 @@
 package com.lightbend.akka.sample;
 
+import java.io.File;
+import java.io.IOException;
+
+import com.lightbend.akka.sample.Greeter.Greet;
+import com.lightbend.akka.sample.Greeter.WhoToGreet;
+
 import akka.actor.ActorRef;
 import akka.actor.ActorSystem;
-import com.lightbend.akka.sample.Greeter.*;
-
-import java.io.IOException;
 
 public class AkkaQuickstart {
   public static void main(String[] args) {
     final ActorSystem system = ActorSystem.create("helloakka");
+    File f = new File("fra_mixed_2009_10K-co_n.txt");
+    System.out.println(f.exists());
     try {
       //#create-actors
       final ActorRef printerActor = 
